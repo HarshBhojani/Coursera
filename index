@@ -1,2 +1,2 @@
-theme:manima
-remote_theme: benelton
+theme:minima
+remote_theme: benbalter/retlab
